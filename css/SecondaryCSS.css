@@ -25,23 +25,24 @@ ul li a.active {
     text-align:center;
     clear:left; 
     padding: 15px 15px; 
-    margin-left:25px
+    margin-left:25px;
 }
 
 .Images {
     display: flex;
     justify-content: center;
     gap: 50px;
-    margin-top:20px;
+    margin-top:20px;    
 }
 
 .ImageBit {
     text-align:center;
-    width: 250px;
+    width: 350px;
 }
 
 .ImageBit img {
-    width:250px;
+    width:350px;
     border-radius: 10px;
-    height:auto
+    height:auto;
+    margin-bottom: 20px
 }
